@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TuntiLappuOhjelma</string>
+    <string name="tehtava_lista">tehtävä lista</string>
+    <string name="uusi_tehtava">Lisää uusi tehtävä</string>
+    <string name="Export">Export</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
